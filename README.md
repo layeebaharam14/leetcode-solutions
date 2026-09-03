@@ -1,24 +1,28 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
-## String
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
-## Stack
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
-## Simulation
-|  |
-| ------- |
-| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
-<!---LeetCode Topics End-->
+# 🧠 LeetCode Solutions
+
+Welcome to my LeetCode problem-solving repository!
+
+This repository contains my solutions to LeetCode problems, automatically synced from LeetCode using LeetHub.
+
+This repository documents my ongoing practice of Data Structures & Algorithms, with a focus on building strong problem-solving skills and writing clean, efficient solutions.
+
+## 🎯 Goals
+
+- Build strong Data Structures & Algorithms fundamentals
+- Improve problem-solving and logical thinking
+- Practice consistently
+- Maintain clean and understandable solutions
+- Track my progress over time
+
+## 🛠️ Languages
+
+- Java
+
+## 🔄 Automatic Sync
+
+Accepted Solutions are automatically synchronized from LeetCode to this repository using LeetHub v2.
+**LeetCode → LeetHub → GitHub**
+
+---
+
+⭐ This repository represents my ongoing journey of learning and practicing Data Structures & Algorithms.
