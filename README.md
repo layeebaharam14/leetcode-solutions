@@ -79,4 +79,12 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
