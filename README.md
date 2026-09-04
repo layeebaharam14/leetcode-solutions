@@ -58,6 +58,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -67,6 +68,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## String
@@ -76,6 +78,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -93,5 +96,6 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
