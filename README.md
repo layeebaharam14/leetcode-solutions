@@ -67,4 +67,16 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
