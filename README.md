@@ -66,6 +66,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -93,6 +94,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,10 +105,19 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | [0094-binary-tree-inorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/layeebaharam14/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
