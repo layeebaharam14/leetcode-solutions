@@ -108,4 +108,5 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/layeebaharam14/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
