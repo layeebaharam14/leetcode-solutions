@@ -78,6 +78,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/layeebaharam14/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -127,9 +128,18 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
