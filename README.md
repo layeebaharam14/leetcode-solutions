@@ -94,6 +94,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 ## Hash Table
@@ -123,4 +124,12 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | ------- |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
