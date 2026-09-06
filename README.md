@@ -95,6 +95,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | ------- |
 | [0001-two-sum](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | [0144-binary-tree-preorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
@@ -120,4 +122,5 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
