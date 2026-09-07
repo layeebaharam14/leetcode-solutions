@@ -98,6 +98,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | [0051-n-queens](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0051-n-queens) |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/layeebaharam14/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | ------- |
 | [0841-keys-and-rooms](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/layeebaharam14/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/layeebaharam14/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
@@ -125,6 +127,7 @@ I believe consistent practice, understanding the reasoning behind a solution, an
 | ------- |
 | [0200-number-of-islands](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/layeebaharam14/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/layeebaharam14/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
